@@ -1,2 +1,2 @@
 # Notebook
-jupyter notebook
+This is just a mess python notebook.
